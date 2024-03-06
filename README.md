@@ -1,1 +1,3 @@
-# express-clerk-api
+
+COMMANDS
+start project: npm start
